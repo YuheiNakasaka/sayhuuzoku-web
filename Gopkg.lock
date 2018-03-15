@@ -8,7 +8,7 @@
     "db",
     "generator"
   ]
-  revision = "bcabd1f245e53450069aa5ce05df99a568ec421f"
+  revision = "b8a4af3ddc3f5e9e3a944c0cc2f03256a6b06a30"
 
 [[projects]]
   name = "github.com/labstack/echo"
